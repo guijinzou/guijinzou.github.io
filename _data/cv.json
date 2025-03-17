@@ -33,29 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Brown University",
+      "area": "Ph.D in Solid Mechanics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Peking University",
+      "area": "B.S. in Mechanics, Statistics (Double)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     }
