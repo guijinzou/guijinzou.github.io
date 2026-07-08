@@ -1,7 +1,7 @@
 ---
 title: "Electrostatic field-enabled ultra-efficient evaporative cooling"
 collection: publications
-category: manuscripts
+category: devices
 permalink: /publication/2025-01-01-08-electrostatic-field-enabled-ultra-efficient-evapor
 date: 2025-01-01
 venue: 'Nature Communications'

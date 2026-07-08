@@ -1,7 +1,7 @@
 ---
 title: "Packing of flexible 2D materials in vesicles"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2018-01-01-30-packing-of-flexible-2d-materials-in-vesicles
 date: 2018-01-01
 venue: 'Journal of Physics D: Applied Physics'

@@ -75,14 +75,28 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - Research themes used to group the publications page.
+#   The key (e.g. "mechanomaterials") must match the `category:` field in each
+#   file under _publications/. Order here controls the order of sections.
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  mechanomaterials:
+    title: 'Mechanomaterials &amp; Nanomechanics'
+  membrane-mechanics:
+    title: 'Cell &amp; Membrane Mechanics'
+  peptide:
+    title: 'Peptide Materials &amp; Self-Assembly'
+  hydrogels:
+    title: 'Tough Hydrogels &amp; Soft Materials'
+  nanomedicine:
+    title: 'Membrane-Targeting Nanomedicine &amp; Antimicrobials'
+  bioelectronics:
+    title: 'Flexible &amp; Stretchable Bioelectronics'
+  nanotwinned:
+    title: 'Nanotwinned Materials &amp; Plasticity'
+  twod:
+    title: '2D Materials, Friction &amp; Superlubricity'
+  devices:
+    title: 'Functional Materials &amp; Devices'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

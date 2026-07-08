@@ -1,7 +1,7 @@
 ---
 title: "Domain aggregation and associated pore growth in lipid membranes"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2021-01-01-21-domain-aggregation-and-associated-pore-growth-in-l
 date: 2021-01-01
 venue: 'ACS Nano'

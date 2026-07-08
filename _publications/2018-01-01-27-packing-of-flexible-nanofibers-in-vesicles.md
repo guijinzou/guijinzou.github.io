@@ -1,7 +1,7 @@
 ---
 title: "Packing of flexible nanofibers in vesicles"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2018-01-01-27-packing-of-flexible-nanofibers-in-vesicles
 date: 2018-01-01
 venue: 'Extreme Mechanics Letters'

@@ -1,7 +1,7 @@
 ---
 title: "Novel planar-structure electrochemical devices for highly flexible semitransparent power generation/storage sources"
 collection: publications
-category: manuscripts
+category: devices
 permalink: /publication/2013-01-01-32-novel-planar-structure-electrochemical-devices-for
 date: 2013-01-01
 venue: 'Nano Letters'

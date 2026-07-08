@@ -1,7 +1,7 @@
 ---
 title: "Mechanics of cellular packing of nanorods with finite and non-uniform diameters"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2018-01-01-28-mechanics-of-cellular-packing-of-nanorods-with-fin
 date: 2018-01-01
 venue: 'Nanoscale'

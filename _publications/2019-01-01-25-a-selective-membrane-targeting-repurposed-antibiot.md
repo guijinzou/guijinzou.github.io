@@ -1,7 +1,8 @@
 ---
 title: "A selective membrane-targeting repurposed antibiotic with activity against persistent methicillin-resistant Staphylococcus aureus"
 collection: publications
-category: manuscripts
+category: nanomedicine
+featured: true
 permalink: /publication/2019-01-01-25-a-selective-membrane-targeting-repurposed-antibiot
 date: 2019-01-01
 venue: 'Proceedings of the National Academy of Sciences'

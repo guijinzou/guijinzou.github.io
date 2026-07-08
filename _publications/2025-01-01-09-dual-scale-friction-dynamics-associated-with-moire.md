@@ -1,7 +1,7 @@
 ---
 title: "Dual-Scale Friction Dynamics Associated with Moire Superlattices in Layered Materials"
 collection: publications
-category: manuscripts
+category: twod
 permalink: /publication/2025-01-01-09-dual-scale-friction-dynamics-associated-with-moire
 date: 2025-01-01
 venue: 'Advanced Functional Materials'

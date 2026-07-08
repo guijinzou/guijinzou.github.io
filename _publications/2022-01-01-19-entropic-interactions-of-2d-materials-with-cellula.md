@@ -1,7 +1,7 @@
 ---
 title: "Entropic interactions of 2D materials with cellular membranes: Parallel versus perpendicular approaching modes"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2022-01-01-19-entropic-interactions-of-2d-materials-with-cellula
 date: 2022-01-01
 venue: 'Mechanics of Materials'

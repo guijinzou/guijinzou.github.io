@@ -1,7 +1,7 @@
 ---
 title: "Technology roadmap for flexible sensors"
 collection: publications
-category: manuscripts
+category: bioelectronics
 permalink: /publication/2023-01-01-12-technology-roadmap-for-flexible-sensors
 date: 2023-01-01
 venue: 'ACS Nano'

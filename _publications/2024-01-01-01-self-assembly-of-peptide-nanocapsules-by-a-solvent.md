@@ -1,7 +1,8 @@
 ---
 title: "Self-assembly of peptide nanocapsules by a solvent concentration gradient"
 collection: publications
-category: manuscripts
+category: peptide
+featured: true
 permalink: /publication/2024-01-01-01-self-assembly-of-peptide-nanocapsules-by-a-solvent
 date: 2024-01-01
 venue: 'Nature Nanotechnology'

@@ -1,7 +1,7 @@
 ---
 title: "Ion-shielding ultrathin encapsulation with hot-press bonded interface enables chronic stretchable bioelectronics"
 collection: publications
-category: manuscripts
+category: bioelectronics
 permalink: /publication/2026-01-01-36-ion-shielding-ultrathin-encapsulation-with-hot-pre
 date: 2026-01-01
 venue: 'Science Advances'

@@ -1,7 +1,7 @@
 ---
 title: "An organo-hydrogel with extreme mechanical performance and tolerance beyond skin"
 collection: publications
-category: manuscripts
+category: hydrogels
 permalink: /publication/2024-01-01-02-an-organo-hydrogel-with-extreme-mechanical-perform
 date: 2024-01-01
 venue: 'Materials Today'

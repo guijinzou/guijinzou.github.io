@@ -1,7 +1,7 @@
 ---
 title: "Interacting filaments drive vesicle morphogenesis"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
 permalink: /publication/2025-01-01-10-interacting-filaments-drive-vesicle-morphogenesis
 date: 2025-01-01
 venue: 'Nature Communications'

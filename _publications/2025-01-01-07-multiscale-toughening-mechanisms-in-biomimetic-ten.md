@@ -1,7 +1,8 @@
 ---
 title: "Multiscale toughening mechanisms in biomimetic tendon-like hydrogels"
 collection: publications
-category: manuscripts
+category: hydrogels
+featured: true
 permalink: /publication/2025-01-01-07-multiscale-toughening-mechanisms-in-biomimetic-ten
 date: 2025-01-01
 venue: 'Proceedings of the National Academy of Sciences'

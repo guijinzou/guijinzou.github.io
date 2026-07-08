@@ -1,7 +1,8 @@
 ---
 title: "Extreme pH Tolerance in Peptide Coacervates Mediated by Multivalent Hydrogen Bonds for Enzyme-Triggered Oral Drug Delivery"
 collection: publications
-category: manuscripts
+category: peptide
+featured: true
 permalink: /publication/2025-01-01-06-extreme-ph-tolerance-in-peptide-coacervates-mediat
 date: 2025-01-01
 venue: 'Journal of the American Chemical Society'

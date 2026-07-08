@@ -6,31 +6,29 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">See also the complete, continuously updated list on <a href="{{site.author.googlescholar}}">Google Scholar</a>. (* denotes equal contribution.)</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<!-- Selected / major publications first -->
+{% assign featured = site.publications | where_exp: "post", "post.featured" | sort: "date" | reverse %}
+{% if featured.size > 0 %}
+  <h2>Selected Publications</h2><hr />
+  {% for post in featured %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 
+<!-- Full list grouped by research theme -->
+<h2 style="margin-top:2em;">All Publications by Research Theme</h2>
 
-
+{% for category in site.publication_category %}
+  {% assign items = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+  {% if items.size > 0 %}
+    <h3 id="{{ category[0] }}">{{ category[1].title }}</h3><hr />
+    {% for post in items %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}

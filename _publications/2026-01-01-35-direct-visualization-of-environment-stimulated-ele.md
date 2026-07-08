@@ -1,7 +1,8 @@
 ---
 title: "Direct visualization of environment-stimulated electrical signals in plants using low-drift dry electrodes"
 collection: publications
-category: manuscripts
+category: bioelectronics
+featured: true
 permalink: /publication/2026-01-01-35-direct-visualization-of-environment-stimulated-ele
 date: 2026-01-01
 venue: 'Nature Electronics'

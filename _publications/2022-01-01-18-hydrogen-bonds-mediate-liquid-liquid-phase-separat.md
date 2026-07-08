@@ -1,7 +1,8 @@
 ---
 title: "Hydrogen-bonds mediate liquid-liquid phase separation of mussel derived adhesive peptides"
 collection: publications
-category: manuscripts
+category: peptide
+featured: true
 permalink: /publication/2022-01-01-18-hydrogen-bonds-mediate-liquid-liquid-phase-separat
 date: 2022-01-01
 venue: 'Nature Communications'

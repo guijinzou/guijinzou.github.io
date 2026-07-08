@@ -1,7 +1,8 @@
 ---
 title: "Anisotropy governs strain stiffening in nanotwinned-materials"
 collection: publications
-category: manuscripts
+category: nanotwinned
+featured: true
 permalink: /publication/2018-01-01-29-anisotropy-governs-strain-stiffening-in-nanotwinne
 date: 2018-01-01
 venue: 'Nature Communications'

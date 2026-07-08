@@ -1,7 +1,8 @@
 ---
 title: "Morphological transformations of vesicles with confined flexible filaments"
 collection: publications
-category: manuscripts
+category: membrane-mechanics
+featured: true
 permalink: /publication/2023-01-01-17-morphological-transformations-of-vesicles-with-con
 date: 2023-01-01
 venue: 'Proceedings of the National Academy of Sciences'

@@ -1,7 +1,7 @@
 ---
 title: "High-Performance Piezoelectric Nanogenerators Using Two-Dimensional Flexible Top Electrodes"
 collection: publications
-category: manuscripts
+category: devices
 permalink: /publication/2014-01-01-31-high-performance-piezoelectric-nanogenerators-usin
 date: 2014-01-01
 venue: 'Advanced Materials Interfaces'

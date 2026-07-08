@@ -1,7 +1,7 @@
 ---
 title: "Deformation coupled moire mapping of superlubricity in graphene"
 collection: publications
-category: manuscripts
+category: twod
 permalink: /publication/2023-01-01-16-deformation-coupled-moire-mapping-of-superlubricit
 date: 2023-01-01
 venue: 'ACS Nano'

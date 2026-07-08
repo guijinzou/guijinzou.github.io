@@ -1,7 +1,7 @@
 ---
 title: "Strong and tough fibrous hydrogels reinforced by multiscale hierarchical structures with multimechanisms"
 collection: publications
-category: manuscripts
+category: hydrogels
 permalink: /publication/2023-01-01-14-strong-and-tough-fibrous-hydrogels-reinforced-by-m
 date: 2023-01-01
 venue: 'Science Advances'

@@ -1,7 +1,7 @@
 ---
 title: "The neutrally charged diarylurea compound PQ401 kills antibiotic-resistant and antibiotic-tolerant Staphylococcus aureus"
 collection: publications
-category: manuscripts
+category: nanomedicine
 permalink: /publication/2020-01-01-22-the-neutrally-charged-diarylurea-compound-pq401-ki
 date: 2020-01-01
 venue: 'mBio'

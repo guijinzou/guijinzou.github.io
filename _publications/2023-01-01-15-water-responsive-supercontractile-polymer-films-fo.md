@@ -1,7 +1,8 @@
 ---
 title: "Water-responsive supercontractile polymer films for bioelectronic interfaces"
 collection: publications
-category: manuscripts
+category: bioelectronics
+featured: true
 permalink: /publication/2023-01-01-15-water-responsive-supercontractile-polymer-films-fo
 date: 2023-01-01
 venue: 'Nature'

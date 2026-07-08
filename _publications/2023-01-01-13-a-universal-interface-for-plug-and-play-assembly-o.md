@@ -1,7 +1,8 @@
 ---
 title: "A universal interface for plug-and-play assembly of stretchable devices"
 collection: publications
-category: manuscripts
+category: bioelectronics
+featured: true
 permalink: /publication/2023-01-01-13-a-universal-interface-for-plug-and-play-assembly-o
 date: 2023-01-01
 venue: 'Nature'

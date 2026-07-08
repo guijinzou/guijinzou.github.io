@@ -1,7 +1,7 @@
 ---
 title: "A Methylazanediyl Bisacetamide Derivative Sensitizes Staphylococcus aureus Persisters to a Combination of Gentamicin and Daptomycin"
 collection: publications
-category: manuscripts
+category: nanomedicine
 permalink: /publication/2024-01-01-03-a-methylazanediyl-bisacetamide-derivative-sensitiz
 date: 2024-01-01
 venue: 'Advanced Science'
