@@ -22,7 +22,7 @@ repository               : "guijinzou/guijinzou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Guijin Zou"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor at Tsinghua University. Mechanomaterials, solid mechanics, nanomechanics, cell mechanics, and peptide materials."
