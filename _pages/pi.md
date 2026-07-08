@@ -7,19 +7,43 @@ author_profile: true
 
 ## Guijin Zou (邹桂进)
 
-**Assistant Professor**, Department of Engineering Mechanics, Tsinghua University
+**Assistant Professor**
+Mechano-X Institute, Applied Mechanics Laboratory
+Department of Engineering Mechanics, Tsinghua University
 
-[Google Scholar](https://scholar.google.com/citations?user=oZJ_pogAAAAJ&hl=en) &nbsp;·&nbsp; [Tsinghua homepage](https://cmssd.tsinghua.edu.cn/_s15/2025/0922/c950a7292/page.psp) &nbsp;·&nbsp; zouguijin@tsinghua.edu.cn
+Office: Mengminwei Science Building (South) S-607, Beijing 100084, China
+Email: guijin_zou@tsinghua.edu.cn
+
+[Google Scholar](https://scholar.google.com/citations?user=oZJ_pogAAAAJ&hl=en) &nbsp;·&nbsp; [Tsinghua homepage](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1446.htm)
 
 ### Biography
 
-Guijin Zou is an Assistant Professor at Tsinghua University. His research spans **mechanomaterials, solid mechanics, nanomechanics, cell mechanics, and peptide materials**, using theory and multiscale simulation to understand and design how materials deform, self-assemble, and function. His work has appeared in journals including *Nature*, *Nature Nanotechnology*, *Nature Communications*, *PNAS*, *JACS*, *Science Advances*, and *ACS Nano*.
+Guijin Zou is an Assistant Professor in the Mechano-X Institute and Applied Mechanics Laboratory, Department of Engineering Mechanics at Tsinghua University. His research is interdisciplinary, spanning **mechanics, biology, materials science, chemistry, and medicine** — with a focus on nanomechanics, mechanomaterials, soft materials, membrane-targeting nanomedicine, and cell–nanomaterial interactions. His work has appeared in journals including *Nature*, *Nature Nanotechnology*, *Nature Communications*, *PNAS*, *JACS*, *Science Advances*, and *ACS Nano*.
+
+### Education
+
+- **Ph.D.**, Solid Mechanics, Brown University (2013–2019)
+- **B.Sc.**, Theoretical and Applied Mechanics, Peking University (2009–2013)
+- **B.Sc.**, Statistics (double major), Peking University (2009–2013)
+
+### Appointments
+
+- **Assistant Professor**, Tsinghua University (2025.08–present)
+- **Senior Research Fellow**, Nanyang Technological University, Singapore (2024.03–2025.08)
+- **Scientist**, Institute of High Performance Computing, A*STAR, Singapore (2019.11–2024.02)
 
 ### Research interests
 
-- Mechanomaterials and the proactive design of material properties and functionalities
-- Solid mechanics and nanomechanics of nanotwinned and low-dimensional materials
-- Cell and membrane mechanics; membrane-targeting nanomedicine
-- Phase separation, coacervation, and self-assembly of peptide materials
+- Nanomechanics and mechanomaterials
+- Soft materials and peptide materials
+- Membrane-targeting nanomedicine
+- Cell–nanomaterial interactions
 
-<!-- Add education, appointments, and awards below as desired. -->
+### Honors
+
+- National Science Fund for Excellent Young Scholars (Overseas)
+
+### Professional service
+
+- Editorial Board Member, *Forces in Mechanics*
+- Young Editorial Board Member, *Chinese Journal of Solid Mechanics*

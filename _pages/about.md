@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the research group of **Prof. Guijin Zou** in the Department of Engineering Mechanics at **Tsinghua University**. Our group works at the interface of solid mechanics, materials science, and biology, with a focus on **mechanomaterials** — the proactive design of material properties and functionalities through mechanics.
+Welcome to the research group of **Prof. Guijin Zou** in the Mechano-X Institute and Applied Mechanics Laboratory, Department of Engineering Mechanics at **Tsinghua University**. Our group works at the interface of solid mechanics, materials science, and biology, with a focus on **mechanomaterials** — the proactive design of material properties and functionalities through mechanics.
 
 Research themes
 ======
